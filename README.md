@@ -1,12 +1,12 @@
 <div align="center">
 
-✦ ˚ ꒰ 🌸 ꒱ ˚ ✦
+✦ ˚  ˚ ✦
 
 # Jordyn Van Aswegen
 
 ✧ Interactive media · Web development · Software design · Games ✧
 
-⋆ ˚｡⋆ 📍 Gauteng, South Africa ⋆ ˚｡⋆
+⋆ ˚｡⋆  Gauteng, South Africa ⋆ ˚｡⋆
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23E75480?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordyntaylavanaswegen/)
 [![Itch.io](https://img.shields.io/badge/Itch.io-%23fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://jetayla.itch.io)
@@ -16,7 +16,7 @@
 
 ---
 
-## ✦ About Me 🌸
+## ✦ About Me 
 
 Hi, i'm Jordyn! ✦ I love creating interactive experiences on the web, exploring ui/ux and software design, and occasionally making games when the mood strikes. i'm passionate about the space where creativity meets code where I can build things that are both beautiful and functional. ˚ ✧
 
@@ -32,7 +32,7 @@ Hi, i'm Jordyn! ✦ I love creating interactive experiences on the web, explorin
 
 ---
 
-## ✦ Tech stack 🌷
+## ✦ Tech stack 
 
 **languages**
 
@@ -53,13 +53,13 @@ Hi, i'm Jordyn! ✦ I love creating interactive experiences on the web, explorin
 
 ---
 
-## ✦ Featured Projects ✨
+## ✦ Featured Projects 
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌸 ABSA Next Gen — Wealth Studio
+###  ABSA Next Gen Wealth Studio
 A financial education platform focused on helping users build investing knowledge through interactive learning experiences.
 
 **highlights:** structured learning paths · interactive finance tools · modern dashboard · responsive design
@@ -71,7 +71,7 @@ A financial education platform focused on helping users build investing knowledg
 </td>
 <td width="50%">
 
-### 🌸 Tay's Gourmet Treats
+###  Tay's Gourmet Treats
 A delightful web experience for a gourmet food brand — designed with love and built for a great user experience.
 
 **highlights:** clean ui · product showcase · brand-focused design · responsive layout
@@ -85,7 +85,7 @@ A delightful web experience for a gourmet food brand — designed with love and 
 <tr>
 <td width="50%">
 
-### 🌸 Portfolio Website
+###  Portfolio Website
 My personal portfolio showcasing my projects, skills, and creative work as an interactive media developer.
 
 **highlights:** interactive design · custom ui · personal branding · project showcase
@@ -97,7 +97,7 @@ My personal portfolio showcasing my projects, skills, and creative work as an in
 </td>
 <td width="50%">
 
-### 🌸 Cyber Nexus
+###  Cyber Nexus
 A semester game project — a cyber-themed game experience built in Unity with custom mechanics and design.
 
 **highlights:** custom gameplay systems · ui/ux design · semester project · playable on itch.io
@@ -113,7 +113,7 @@ A semester game project — a cyber-themed game experience built in Unity with c
 
 ---
 
-## ✦ Github stats ˚ ✧ ˚
+## ✦ Github stats 
 
 <div align="center">
 
