@@ -4,7 +4,7 @@
 
 # Jordyn Van Aswegen
 
-✧ interactive media · web development · software design · games ✧
+✧ Interactive media · Web development · Software design · Games ✧
 
 ⋆ ˚｡⋆ 📍 Gauteng, South Africa ⋆ ˚｡⋆
 
@@ -16,13 +16,13 @@
 
 ---
 
-## ✦ about me 🌸
+## ✦ About Me 🌸
 
-hi, i'm jordyn! ✦ i love creating interactive experiences on the web, exploring ui/ux and software design, and occasionally making games when the mood strikes. i'm passionate about the space where creativity meets code — building things that are both beautiful and functional. ˚ ✧
+Hi, i'm Jordyn! ✦ I love creating interactive experiences on the web, exploring ui/ux and software design, and occasionally making games when the mood strikes. i'm passionate about the space where creativity meets code where I can build things that are both beautiful and functional. ˚ ✧
 
 ---
 
-## ✦ what i'm into ˚ ✧
+## ✦ What i'm into ˚ ✧
 
 ```
 ✧ interactive media       ✧ web development
@@ -32,7 +32,7 @@ hi, i'm jordyn! ✦ i love creating interactive experiences on the web, explorin
 
 ---
 
-## ✦ tech stack 🌷
+## ✦ Tech stack 🌷
 
 **languages**
 
@@ -53,7 +53,7 @@ hi, i'm jordyn! ✦ i love creating interactive experiences on the web, explorin
 
 ---
 
-## ✦ featured projects ✨
+## ✦ Featured Projects ✨
 
 <table>
 <tr>
@@ -113,7 +113,7 @@ A semester game project — a cyber-themed game experience built in Unity with c
 
 ---
 
-## ✦ github stats ˚ ✧ ˚
+## ✦ Github stats ˚ ✧ ˚
 
 <div align="center">
 
